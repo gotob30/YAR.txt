@@ -1,1 +1,1 @@
-
+[FBAN/Orca-Android;FBAV/233.0.0.36.117;FBBV/166104927;FBDM/{density=2.0,width=1600,height=1024};FBLC/en_US;FBCR/Moov;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.orca;FBDV/RMX3231;FBSV/13.5.3;FBCA/arm64-v8a:;]
