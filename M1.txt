@@ -1,1 +1,2 @@
 
+[FBAN/FB4A;FBAV/317.0.0.51.119;FBBV/283419120;FBDM/{density=3.0,width=800,height=736};FBLC/en_US;FBRV/333877426;FBCR/Beeline;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/SD4930UR;FBSV/12.8.3;nullFBCA/arm64-v8a:;]
