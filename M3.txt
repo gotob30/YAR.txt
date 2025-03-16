@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/404.0.0.35.70;FBBV/421812321;FBDM/{density=2.0,width=1080,height=1366};FBLC/en_US;FBRV/238453174;FBCR/Telemor;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/LE2120;FBSV/13.5.8;nullFBCA/armeabi-v7a:armeabi;]
