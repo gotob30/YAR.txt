@@ -1,1 +1,2 @@
 
+[FBAN/Orca-Android;FBAV/154.0.0.29.385;FBBV/86961466;FBDM/{density=2.5,width=1440,height=812};FBLC/en_US;FBCR/Ethio Telecom;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.orca;FBDV/RMX3242;FBSV/11.5.7;FBCA/arm64-v8a:;]
