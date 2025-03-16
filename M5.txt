@@ -1,1 +1,1 @@
-
+[FBAN/Orca-Android;FBAV/197.0.0.46.98;FBBV/130483514;FBDM/{density=1.5,width=1200,height=1024};FBLC/en_US;FBRV/344939487;FBCR/TeleTalk;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.orca;FBDV/Infinix X559F;FBSV/10.2.5;nullFBCA/armeabi-v7a:armeabi;]
