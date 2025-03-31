@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/197.0.0.46.98;FBBV/130483514;FBDM/{density=1.5,width=1200,height=1024};FBLC/en_US;FBRV/344939487;FBCR/TeleTalk;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.orca;FBDV/Infinix X559F;FBSV/10.2.5;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/385.0.0.32.114;FBBV/317016274;FBDM/{density=1.0,width=800,height=736};FBLC/en_US;FBRV/305597125;FB_FW/2;FBCR/TN Mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/E6633;FBSV/13.1.5;FBOP/1;FBCA/arm64-v8a:;]
